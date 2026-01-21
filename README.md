@@ -1,0 +1,1 @@
+# Number-Pattern-Generator-in-python
