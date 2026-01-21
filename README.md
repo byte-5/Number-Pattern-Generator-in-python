@@ -1,5 +1,12 @@
 # Number-Pattern-Generator-in-python
 
+
+
+
+
+
+
+
 def number_pattern(n):
     """
     Creates a space-separated string of numbers from 1 to n.
